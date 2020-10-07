@@ -12,7 +12,7 @@ EMAIL: bds.nhaphoonline@gmail.com
 <br/>
 WEBSITE: bdsnhapho.com
 
-## SOURCE CODE
+## Source code
 https://github.com/andaiminhgroup/bdsnhapho/
 
 ### Support or Contact
