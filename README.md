@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## WELCOME TO BDS NHÀ PHỐ
 
-You can use the [editor on GitHub](https://github.com/andaiminhgroup/bdsnhapho/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Founder NGUYỄN ANH KIỆT
+Kinh Doanh Bất Động Sản
+HOTLINE: 0939.38.39.06 - 0934.113.001
+ĐỊA CHỈ: Số 3E5 khu phố Mỹ Tân, phường 7, Tp. Bến Tre, Tỉnh Bến Tre
+EMAIL: bds.nhaphoonline@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andaiminhgroup/bdsnhapho/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## SOURCE CODE
+https://github.com/andaiminhgroup/bdsnhapho/
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+AN ĐẠI MINH GROUP
+Địa chỉ: Số 156A An Dương Vương, P.16, Q.8, Tp. Hồ Chí Minh, VN 700000
+Hotline CSKH: 0971 949 963
+Email: andaiminh.contacts@gmail.com
